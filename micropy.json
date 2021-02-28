@@ -6,5 +6,8 @@
     "dev-packages": {
         "micropy-cli": "*"
     },
-    "packages": {}
+    "packages": {},
+    "config": {
+        "pylint": true
+    }
 }
