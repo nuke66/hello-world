@@ -8,6 +8,7 @@
     },
     "packages": {},
     "config": {
-        "pylint": true
+        "pylint": true,
+        "vscode": true
     }
 }

@@ -1,3 +1,23 @@
 {
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+    "python.autoComplete.extraPaths": [
+        ".micropy\\micropy-cli\\frozen",
+        ".micropy\\BradenM-micropy-stubs-e1b8ce6\\frozen",
+        ".micropy\\micropy-cli\\stubs",
+        ".micropy\\hello-world"
+    ],
+    "python.autoComplete.typeshedPaths": [
+        ".micropy\\micropy-cli\\frozen",
+        ".micropy\\BradenM-micropy-stubs-e1b8ce6\\frozen",
+        ".micropy\\micropy-cli\\stubs",
+        ".micropy\\hello-world"
+    ],
+    "python.analysis.typeshedPaths": [
+        ".micropy\\micropy-cli\\frozen",
+        ".micropy\\BradenM-micropy-stubs-e1b8ce6\\frozen",
+        ".micropy\\micropy-cli\\stubs",
+        ".micropy\\hello-world"
+    ]
 }
