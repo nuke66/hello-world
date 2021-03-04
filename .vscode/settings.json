@@ -19,5 +19,6 @@
         ".micropy\\BradenM-micropy-stubs-e1b8ce6\\frozen",
         ".micropy\\micropy-cli\\stubs",
         ".micropy\\hello-world"
-    ]
+    ],
+    "python.languageServer": "Microsoft"
 }
