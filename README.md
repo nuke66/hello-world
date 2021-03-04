@@ -37,6 +37,6 @@ In the main folder for the project (i.e. the ...\Hello-word directory) run this 
 micropy init
 ```
 
-Now in VS Code you should see intellisense code completion happening, and when you plug in your rasp pi you should see it connect in the terminal window.  With the main.py open if you click "Run" in the footer it should execute the code on the Pico :)
+Now in VS Code you should see intellisense code completion happening, and when you plug in your rasp pi you should see it connect in the terminal window.  With main.py open if you click "Run" in the footer it should execute the code on the Pico :)
 
 ![screenshot](https://user-images.githubusercontent.com/23091874/109891367-a51d3d80-7cd4-11eb-8cde-c947a83ed1f8.png)
